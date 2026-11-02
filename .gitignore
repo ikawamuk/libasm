@@ -1,0 +1,8 @@
+*
+!**/
+!README.md
+!Makefile
+!test/**/*.c
+!src/*.s
+!include/libasm.h
+!.gitignore
